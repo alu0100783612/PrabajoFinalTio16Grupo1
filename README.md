@@ -26,7 +26,7 @@ La fuente principal de nuestros datos va a ser Twitter
 ### Procesamiento de estos datos y transformaciones.
 
 
-### Resultados esperados.
+### Resultados esperados. 
 
 
 ### Diagrama Gantt del desarrollo del proyecto.
