@@ -18,6 +18,16 @@ desarrolla en dicha o dichas cuentas.
 
 **Análisis del impacto de twitter en la educación de canarias**
 
+
+### Herramienta a usar
+
+Los miembros del grupo hemos realizado una encuesta (formulario de Google), para elegir la herramienta que deseamos 
+usar para el proyecto. 
+
+![Resultado de la votacion](./votacion.png "TResultado de las votaciones")
+
+la herramienta más votada es [SocialMention](http://www.socialmention.com "SocialMention")
+
 ###Propuesta tecnológica concreta a desarrollar.
 
 
