@@ -1,4 +1,4 @@
-# *PrabajoFinalTio16Grupo1*
+# *TrabajoFinalTio16Grupo1*
 
 ## Miembros
 + CONSTANZA POLETTE LEON BARITUSSIO
@@ -26,7 +26,9 @@ usar para el proyecto.
 
 ![Resultado de la votacion](./votacion.png "TResultado de las votaciones")
 
-la herramienta más votada es [SocialMention](http://www.socialmention.com "SocialMention")
+la herramienta más votada es [SocialMention](http://www.socialmention.com "SocialMention"), la cual usaremos 
+una serie de hastag para buscar la información relacionada con la educación. Para ello introduciremos el hastag en la barra de busqueda y 
+luego obtenemos los datos o relevancia de dicho hastag, para luego realizar el estudio. 
 
 ###Propuesta tecnológica concreta a desarrollar.
 
