@@ -37,4 +37,4 @@ La fuente principal de nuestros datos va a ser Twitter
 
 ### Creación de un repositorio de contenidos con los aportes del proyecto.
 
-![Repositorio](https://github.com/alu0100783612/PrabajoFinalTio16Grupo1 "Enlace al ropositorio en github")
+[Repositorio](https://github.com/alu0100783612/PrabajoFinalTio16Grupo1 "Enlace al ropositorio en github")
