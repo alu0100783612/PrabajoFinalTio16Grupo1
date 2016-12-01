@@ -16,7 +16,7 @@ desarrolla en dicha o dichas cuentas.
 
 ### Indicar el nombre propuesto para su proyecto.
 
-** Análisis del impacto de twitter en la educación de canarias **
+**Análisis del impacto de twitter en la educación de canarias**
 
 ###Propuesta tecnológica concreta a desarrollar.
 
