@@ -1,12 +1,12 @@
 # *TrabajoFinalTio16Grupo1*
 
 ## Miembros
-+ CONSTANZA POLETTE LEON BARITUSSIO
-+ LILY
++ Constanza Polette Lon Baritussio
++ Edna Liliana Galiano Camacho
 + Kevin Estévez Expósito
-+ PABLO SEBASTIÁN Caballero
-+ ANDREA RODRÍGUEZ RIVARÉS
-+ YERAY PEREZ PERAZA
++ Pablo Sebastián Caballero
++ Andrea Rodríguez Rivarés
++ Yeray Pérez Peraza
 
 ### Definir la problemática a desarrollar
 
