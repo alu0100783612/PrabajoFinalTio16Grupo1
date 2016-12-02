@@ -1,7 +1,7 @@
 # *TrabajoFinalTio16Grupo1*
 
 ## Miembros
-+ Constanza Polette Lon Baritussio
++ Constanza Polette Leon Baritussio
 + Edna Liliana Galiano Camacho
 + Kevin Estévez Expósito
 + Pablo Sebastián Caballero
