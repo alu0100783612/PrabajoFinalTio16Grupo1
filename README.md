@@ -41,7 +41,17 @@ La fuente principal de nuestros datos va a ser Twitter
 
 
 ### Resultados esperados. 
-
+Los resultados que se esperan conseguir con el análisis de distintas cuentas de la red social Twitter son:
+ 	* Número de tweets realizados.
+	* Conocer la repercusión, difusión y contenido visual que tiene un tweet.
+	* Hashtags más utilizados o los temas de más tendencia.
+	* Número de seguidores y clasificación de los mismos.
+	* Conexión entre usuarios.
+	* Obtener un gráfico con el número de impresiones orgánicas que hayan alcanzado nuestros tweets, en otras palabtas, número de veces que se han mostrado un determinado mensaje.
+	* Tasa de interacción, clicks que han obtenido un enlace en concreto.
+	* Número de retweets.
+	* Número de tweets marcados como varitos.
+	* Respuestas recibidas a mensajes.
 
 ### Diagrama Gantt del desarrollo del proyecto.
 
