@@ -24,10 +24,18 @@ desarrolla en dicha o dichas cuentas.
 Los miembros del grupo hemos realizado una encuesta (formulario de Google), para elegir la herramienta que deseamos 
 usar para el proyecto. 
 
-![Resultado de la votación](./votacion.png "TResultado de las votaciones")
+![Resultado de la votación](./votacion.png "Resultado de las votaciones")
 
 La herramienta más votada es [SocialMention](http://www.socialmention.com "SocialMention"), la cual usaremos 
 una serie de hashtags para buscar la información relacionada con la educación. Para ello introduciremos el hastag en la barra de búsqueda y luego obtenemos los datos o relevancia de dicho hashtag, para luego realizar el estudio. 
+
+El funcionamiento de la herramientas consiste en nuestro caso en introducir el hastag que deseamos analizar para obtener la repercusión que tiene dicho hastag, las menciones que tiene, los usuarios que lo usan. 
+
+El uso de la herramienta consiste en buscar en twitter el hastag que queremos ver la trascendencia que tiene y el uso que se le ha dado y ya con el hastag la herramienta nos muestra la información relevante.
+
+#### Captura de como se usaría la herramienta
+
+![Ejemplo de uso](./socialmention..JPG "Pantallazo de uso de la web")
 
 ###Propuesta tecnológica concreta a desarrollar.
 
