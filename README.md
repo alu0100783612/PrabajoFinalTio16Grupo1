@@ -24,7 +24,7 @@ desarrolla en dicha o dichas cuentas.
 Los miembros del grupo hemos realizado una encuesta (formulario de Google), para elegir la herramienta que deseamos 
 usar para el proyecto. 
 
-![Resultado de la votación](./votacion.png "Resultado de las votaciones")
+![Resultado de la votación](./images/votacion.png "Resultado de las votaciones")
 
 La herramienta más votada es [SocialMention](http://www.socialmention.com "SocialMention"), la cual usaremos 
 una serie de hashtags para buscar la información relacionada con la educación. Para ello introduciremos el hastag en la barra de búsqueda y luego obtenemos los datos o relevancia de dicho hashtag, para luego realizar el estudio. 
@@ -35,17 +35,32 @@ El uso de la herramienta consiste en buscar en twitter el hastag que queremos ve
 
 #### Captura de como se usaría la herramienta
 
-![Ejemplo de uso](./socialmention..JPG "Pantallazo de uso de la web")
+![Ejemplo de uso](./images/socialmention..JPG "Pantallazo de uso de la web")
 
-###Propuesta tecnológica concreta a desarrollar.
+### Propuesta tecnológica concreta a desarrollar.
 
 
-###Fuentes de datos principales.
+### Fuentes de datos principales.
 
 La fuente principal de nuestros datos va a ser Twitter 
 
 ### Procesamiento de estos datos y transformaciones.
 
+Una vez introducido el hashtag en la herramienta [SocialMention](http://www.socialmention.com "SocialMention"), queremos mostrar únicamente los resultados relacionados con Twitter, por lo que debemos ir a la parte inferior izquierda de la pantalla y seleccionar la red social:
+
+![Sources](./images/sources.png "Sources")
+
+Ahora que tenemos los datos filtrados por la red social Twitter, podemos ver los tuits relacionados con el hashtag introducido. Además, la herramienta nos muestra datos útiles como la fuerza del hashtag, la media de tiempo transcurrido entre menciones del hashtag, o el número de autores que lo han usado:
+
+![Datos útiles](./images/useful_data_1.png "Datos útiles")
+
+También se nos muestra el tipo de opinión de los tuits que contienen el hashtag, palabras clave, usuarios que han tuiteado con el hashtag, y otros hashtags relacionados con el que se ha buscado:
+
+![Datos útiles](./images/useful_data_2.png "Datos útiles")
+
+Además, SocialMention nos permite descargar los datos obtenidos en formato CSV por si queremos realizar alguna otra transformación o tatamiento de los datos:
+
+![Descarga de los datos](./images/data_download.png "Descarga de los datos")
 
 ### Resultados esperados. 
  Los resultados que se esperan conseguir con el análisis de distintas cuentas de la red social Twitter son:
