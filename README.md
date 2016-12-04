@@ -80,8 +80,11 @@ Además, SocialMention nos permite descargar los datos obtenidos en formato CSV 
 
 ### Propuesta de modelo de negocio para el desarrollo.
 Nuestra aplicación web, SocialMention, sirve para buscar y analizar todos los contenidos, comentarios, fotos, videos, hashtags, etc. compartidos por los usuarios en Internet. Nos permite saber quién menciona nuestra marca, en qué red social, blog... y en qué momento.
+
 En cuanto a su importancia en las empresas, podría servir para monitorear la influencia de una marca, un evento o un asunto en concreto. También serviría para monitorear la influencia de la competencia. Todo esto no serviría si posteriormente no realizamos un análisis de la información recopilada con la herramienta, ya que a parte de dar porcentajes, gráficas y datos, también proporciona las páginas, blogs... donde se menciona dicha información.
+
 Es muy importante especificar el canal por el que se trasladará la herramienta a los clientes, en nuestro caso, se podrá acceder a la herramienta a través de Internet. Es necesario tener una conexión a Internet para poder usarla. Funciona en todos los dispositivos: ordenador, tablet, móvil, etc., por lo que es muy útil en el caso de necesitar hacer una búsqueda rápida.
+
 Por último, SocialMention tiene una opción en la que se pueden escribir propuestas de mejoras para la aplicación, con ella se puede establecer una relación un poco más directa con las personas que se encargan de su desarrollo o de darle soporte. Funciona de este modo: escribes la propuesta, le pones un pequeño título con el cual describir la propuesta y lo envías (para poder enviar dicha propuesta se debe iniciar sesión en gmail o Facebook).
 
 ### Creación de un repositorio de contenidos con los aportes del proyecto.
