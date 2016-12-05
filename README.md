@@ -80,6 +80,9 @@ Además, SocialMention nos permite descargar los datos obtenidos en formato CSV 
 
 ### Diagrama Gantt del desarrollo del proyecto.
 
+![Tabla de contenido](./images/Gantt 1.png "Tabla de contenido")
+
+![Diagrama de gantt](./images/Diagrama gantt 2 "Diagrama de gantt")
 
 ### Propuesta de modelo de negocio para el desarrollo.
 Nuestra aplicación web, SocialMention, sirve para buscar y analizar todos los contenidos, comentarios, fotos, videos, hashtags, etc. compartidos por los usuarios en Internet. Nos permite saber quién menciona nuestra marca, en qué red social, blog... y en qué momento.
