@@ -16,7 +16,7 @@ desarrolla en dicha o dichas cuentas.
 
 ### Indicar el nombre propuesto para su proyecto.
 
-**Análisis del impacto de twitter en la educación de canarias**
+**Análisis del impacto de twitter en la educación Seattle, WA**
 
 
 ### Herramienta a usar
@@ -39,13 +39,13 @@ El uso de la herramienta consiste en buscar en twitter el hastag que queremos ve
 
 ### Propuesta tecnológica concreta a desarrollar.
 
-Se desarrollará una aplicación en el lenguaje R que tendrá como objetivo analizar el número de tweets, palabras claves, usuarios relacionados y hashtags, que tengan relación con el ámbito de la educación en Canarias en la red social Twitter. Para conseguirlo, se hará uso del análisis semántico latente.
+Se desarrollará una aplicación en el lenguaje R que tendrá como objetivo analizar el número de tweets, palabras claves, usuarios relacionados y hashtags, que tengan relación con el ámbito de la educación en la red social Twitter. Para conseguirlo, se hará uso del análisis semántico latente.
 
 Los datos con los que trabajaremos se conseguirán a través de la página web Socialmention que nos permitirá obtener información de Twitter en tiempo real a través de un buscador en el que se introduce el hashtag para obtener todos los datos asociados a dicho hashtag y poder descargarlo en un fichero CSV para su posterior análisis.
 
 ### Fuentes de datos principales.
 
-La fuente principal de nuestros datos va a ser Twitter 
+La fuente principal de nuestros datos va a ser Twitter, tras una reunión del grupo, hemos decidido  a priori usar la cuenta de Edudemic(@Edudemic), la cual tiene un gran volumen de datos relacionados con la educación y la tecnología
 
 ### Procesamiento de estos datos y transformaciones.
 
