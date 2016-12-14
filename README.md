@@ -39,9 +39,17 @@ El uso de la herramienta consiste en buscar en twitter el hastag que queremos ve
 
 ### Propuesta tecnológica concreta a desarrollar.
 
-Se desarrollará una aplicación en el lenguaje R que tendrá como objetivo analizar el número de tweets, palabras claves, usuarios relacionados y hashtags, que tengan relación con el ámbito de la educación en la red social Twitter. Para conseguirlo, se hará uso del análisis semántico latente.
+Se desarrollará una aplicación en el lenguaje R que tendrá como objetivo obtener diversas estadísticas como el número de tweets, palabras claves, usuarios relacionados,etc, a través de hashtags y usuarios que tengan relación con el ámbito de la educación en la red social Twitter. 
 
-Los datos con los que trabajaremos se conseguirán a través de la página web Socialmention que nos permitirá obtener información de Twitter en tiempo real a través de un buscador en el que se introduce el hashtag para obtener todos los datos asociados a dicho hashtag y poder descargarlo en un fichero CSV para su posterior análisis.
+Para ello, se utilizarán herramientas de apoyo para analizar Twitter y obtener los  datos que necesitamos para su posterior análisis en R.
+
+Las herramientas que utilizaremos son:
+
+-Tweet Reach permite obtener un análisis del alcance de los tweets.
+
+-Mentionmapp es una web que nos permite obtener un grafo que refleja las relaciones principales de un usuario de Twitter con otros usuarios y hashtags más utilizados. Se usará para mostrar la información de manera más visual.
+
+-Twitter Archivist se utilizará para analizar hashtags y así obtener los últimos tweets que usaron ese hashtag. Estos datos se exportarán a un archivo CSV para su análisis en R.
 
 ### Fuentes de datos principales.
 
