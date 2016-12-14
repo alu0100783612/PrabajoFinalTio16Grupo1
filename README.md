@@ -105,7 +105,7 @@ Ahora que se nos muestran los datos obtenidos de la red social Twitter, podemos 
 
 Además, se nos mustra algún gráfico simple con los usuarios con mayor uso del hashtag:
 
-![Tweet ArchivistPT](./images/tweetreach_3.png "Tweet ArchivistPT")
+![Tweet ArchivistPT](./images/tweetarchivist_3.png "Tweet ArchivistPT")
 
 Cabe destacar que para poder descargar los ficheros con los datos se debe registrar en versión de prueba.
 
