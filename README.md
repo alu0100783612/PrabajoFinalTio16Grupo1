@@ -29,7 +29,9 @@ los ficheros de datos, mientras que la ultima generará los graficos.
 
 ## Descripción de cada Herramienta
 
-Tweet Reach:  es una herramienta de análisis de Twitter que nos permite averiguar información acerca de los Tweets publicados. Creada por Union Metrics en 
+###Tweet Reach: 
+
+Es una herramienta de análisis de Twitter que nos permite averiguar información acerca de los Tweets publicados. Creada por Union Metrics en 
 San Francisco (Estados Unidos), mide principalmente, el alcance de los últimos 50 tweets publicados. Ésta herramienta permite realizar análisis e informes con los datos
 más relevantes, para poder mejorar el contenido en los futuros tweets que publiques, monitorizar tu cuenta en tiempo real para permitirte actuar en todo momento,
 visualizar todos los mensajes en tiempo real y realizar un seguimiento de los hashtags o palabras clave de Twitter, entre más opciones.
@@ -37,7 +39,9 @@ visualizar todos los mensajes en tiempo real y realizar un seguimiento de los ha
 
 ![Tweet Reach](./images/tweetreach_inicio.png "Tweet Reach")
 
-Tweet Archivist: esta herramienta analiza los últimos tuits de su cuenta para crear estadísticas y gráficos. Dentro de los datos que nos aporta ésta herramienta
+###Tweet Archivist: 
+
+Ésta herramienta analiza los últimos tuits de su cuenta para crear estadísticas y gráficos. Dentro de los datos que nos aporta ésta herramienta
 nos encontramos con el alcance estimado, impresiones de los tuits con los hashtags, los usuarios más influyentes que han utilizado el hashtag, los tuits más retuiteados, 
 participantes en el hashtag (usuarios que lo han utilizado, número de tuits de cada uno, RT’s conseguidos e impresiones) y timeline de los tuits.
 
@@ -45,7 +49,9 @@ participantes en el hashtag (usuarios que lo han utilizado, número de tuits de 
 ![Tweet Archivist](./images/tweetarchivist_inicio.png "Tweet Archivist")
 
 
-Mentionmapp: Se trata de una herramienta que viene fenomenal para ver las conexiones entre usuarios. Nos genera un mapa interactivo que nos viene perfecto para monitorizar 
+###Mentionmapp: 
+
+Se trata de una herramienta que viene fenomenal para ver las conexiones entre usuarios. Nos genera un mapa interactivo que nos viene perfecto para monitorizar 
 el seguimiento de los usuarios, temas, menciones, hashtags, etc., y generar un informe completo. Podemos ir modificando este mapa moviendo cada uno de los objetos y 
 dándoles la importancia que queremos en referencia al número de menciones, hashtags, etc. De un simple vistazo y de forma muy visual, podemos ver con qué usuarios interactuamos más, las menciones que nos hacen y ver los tuits más importantes y que más repercusión han tenido.
 
