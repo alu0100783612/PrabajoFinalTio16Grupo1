@@ -79,21 +79,47 @@ La fuente principal de nuestros datos va a ser Twitter, tras una reunión del gr
 
 ### Procesamiento de estos datos y transformaciones.
 
-Una vez introducido el hashtag en la herramienta [SocialMention](http://www.socialmention.com "SocialMention"), queremos mostrar únicamente los resultados relacionados con Twitter, por lo que debemos ir a la parte inferior izquierda de la pantalla y seleccionar la red social:
+###Tweet Reach :
 
-![Sources](./images/sources.png "Sources")
+Una vez entramos en la plataforma, introducimos el hashtag que queremos analizar en el cuadro de búsqueda:
 
-Ahora que tenemos los datos filtrados por la red social Twitter, podemos ver los tuits relacionados con el hashtag introducido. Además, la herramienta nos muestra datos útiles como la fuerza del hashtag, la media de tiempo transcurrido entre menciones del hashtag, o el número de autores que lo han usado:
+![Tweet ReachPT](./images/tweetreach_1.png "Tweet ReachPT")
 
-![Datos útiles](./images/useful_data_1.png "Datos útiles")
+Ahora que se nos muestran los datos obtenidos de la red social Twitter, podemos ver los tuits relacionados con el hashtag introducido, así como el alcance estimado, o el la exposición de dicho hashtag. Cabe destacar que, al ser la versión de prueba, solo se nos mostrarán los datos de unos pocos tuits:
 
-También se nos muestra el tipo de opinión de los tuits que contienen el hashtag, palabras clave, usuarios que han tuiteado con el hashtag, y otros hashtags relacionados con el que se ha buscado:
+![Tweet ReachPT](./images/tweetreach_2.png "Tweet ReachPT")
 
-![Datos útiles](./images/useful_data_2.png "Datos útiles")
+Además, de forma gratuita podemos descargar el fichero con los datos en diferentes formatos por si queremos realizar alguna otra transformación o tatamiento de los datos:
 
-Además, SocialMention nos permite descargar los datos obtenidos en formato CSV por si queremos realizar alguna otra transformación o tatamiento de los datos:
+![Tweet ReachPT](./images/tweetreach_3.png "Tweet ReachPT")
 
-![Descarga de los datos](./images/data_download.png "Descarga de los datos")
+###Tweet Archivist :
+
+Una vez entramos en la plataforma, introducimos el hashtag que queremos analizar en el cuadro de búsqueda:
+
+![Tweet ArchivistPT](./images/tweetarchivist_1.png "Tweet ArchivistPT")
+
+Ahora que se nos muestran los datos obtenidos de la red social Twitter, podemos ver los tuits relacionados con el hashtag introducido, así como el número de éstos, las impresiones o el rango de fechas sobre las que se está mostrando los datos:
+
+![Tweet ArchivistPT](./images/tweetarchivist_2.png "Tweet ArchivistPT")
+
+Además, se nos mustra algún gráfico simple con los usuarios con mayor uso del hashtag:
+
+![Tweet ArchivistPT](./images/tweetreach_3.png "Tweet ArchivistPT")
+
+Cabe destacar que para poder descargar los ficheros con los datos se debe registrar en versión de prueba.
+
+###Mentionmapp :
+
+Una vez entramos en la plataforma, clickamos en el botón "Get Started for Free" y nos logueamos con nuestra cuenta de twitter. De esta forma nos aparecerá el cuadro de búsqueda en el que podemos introducir un hashtag:
+
+![MentionmappPT](./images/mentionmapp_1.png "MentionmappPT")
+
+Así, se nos mostrará un grafo a modo de mapa en el que se puede identificar, de forma bastante visual las cuentas de usuarios con mayor cantidad de tuits realizados, etc:
+
+![MentionmappPT](./images/mentionmapp_2.png "MentionmappPT")
+
+Además, la herramienta nos permite descargar el mapa en formato PNG.
 
 ### Resultados esperados. 
  Los resultados que se esperan conseguir con el análisis de distintas cuentas de la red social Twitter son:
