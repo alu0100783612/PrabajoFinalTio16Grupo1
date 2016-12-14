@@ -51,7 +51,7 @@ participantes en el hashtag (usuarios que lo han utilizado, número de tuits de 
 
 ###Mentionmapp : 
 
-Se trata de una herramienta que viene fenomenal para ver las conexiones entre usuarios. Nos genera un mapa interactivo que nos viene perfecto para monitorizar 
+Se trata de una herramienta que viene fenomenal para ver las conexiones entre usuarios. Nos genera un mapa que nos premite monitorizar 
 el seguimiento de los usuarios, temas, menciones, hashtags, etc., y generar un informe completo. Podemos ir modificando este mapa moviendo cada uno de los objetos y 
 dándoles la importancia que queremos en referencia al número de menciones, hashtags, etc. De un simple vistazo y de forma muy visual, podemos ver con qué usuarios interactuamos más, las menciones que nos hacen y ver los tuits más importantes y que más repercusión han tenido.
 
