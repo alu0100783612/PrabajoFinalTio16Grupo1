@@ -21,15 +21,15 @@ desarrolla en dicha o dichas cuentas.
 
 ## Cambio de Herramienta 
 
-Hemos pasado de utilizar una unica herramienta (SocialMention) a trabajar con otras tres, debido a que éstas nos permiten realizar un analisis más detallados
-otorgando, de esta forma, un mayor volumen de datos.
+Hemos pasado de utilizar una unica herramienta (SocialMention) a trabajar con otras tres, debido a que éstas nos permiten realizar un analisis más detallado,
+otorgando de esta forma, un mayor volumen de datos.
 
 Las tres herramienta que mencionábamos anteriomente son las siguientes : TweetReach, TweetArchivist y Mentionmapp. Las dos primeras serán utilizadas para obtener
 los ficheros de datos, mientras que la ultima generará los graficos.
 
 ## Descripción de cada Herramienta
 
-###Tweet Reach: 
+###Tweet Reach : 
 
 Es una herramienta de análisis de Twitter que nos permite averiguar información acerca de los Tweets publicados. Creada por Union Metrics en 
 San Francisco (Estados Unidos), mide principalmente, el alcance de los últimos 50 tweets publicados. Ésta herramienta permite realizar análisis e informes con los datos
@@ -39,7 +39,7 @@ visualizar todos los mensajes en tiempo real y realizar un seguimiento de los ha
 
 ![Tweet Reach](./images/tweetreach_inicio.png "Tweet Reach")
 
-###Tweet Archivist: 
+###Tweet Archivist : 
 
 Ésta herramienta analiza los últimos tuits de su cuenta para crear estadísticas y gráficos. Dentro de los datos que nos aporta ésta herramienta
 nos encontramos con el alcance estimado, impresiones de los tuits con los hashtags, los usuarios más influyentes que han utilizado el hashtag, los tuits más retuiteados, 
@@ -49,7 +49,7 @@ participantes en el hashtag (usuarios que lo han utilizado, número de tuits de 
 ![Tweet Archivist](./images/tweetarchivist_inicio.png "Tweet Archivist")
 
 
-###Mentionmapp: 
+###Mentionmapp : 
 
 Se trata de una herramienta que viene fenomenal para ver las conexiones entre usuarios. Nos genera un mapa interactivo que nos viene perfecto para monitorizar 
 el seguimiento de los usuarios, temas, menciones, hashtags, etc., y generar un informe completo. Podemos ir modificando este mapa moviendo cada uno de los objetos y 
