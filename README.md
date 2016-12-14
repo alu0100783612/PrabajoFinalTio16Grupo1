@@ -19,23 +19,39 @@ desarrolla en dicha o dichas cuentas.
 **Análisis del impacto de twitter en la educación Seattle, WA**
 
 
-### Herramienta a usar
+## Cambio de Herramienta 
 
-Los miembros del grupo hemos realizado una encuesta (formulario de Google), para elegir la herramienta que deseamos 
-usar para el proyecto. 
+Hemos pasado de utilizar una unica herramienta (SocialMention) a trabajar con otras tres, debido a que éstas nos permiten realizar un analisis más detallados
+otorgando, de esta forma, un mayor volumen de datos.
 
-![Resultado de la votación](./images/votacion.png "Resultado de las votaciones")
+Las tres herramienta que mencionábamos anteriomente son las siguientes : TweetReach, TweetArchivist y Mentionmapp. Las dos primeras serán utilizadas para obtener
+los ficheros de datos, mientras que la ultima generará los graficos.
 
-La herramienta más votada es [SocialMention](http://www.socialmention.com "SocialMention"), la cual usaremos 
-una serie de hashtags para buscar la información relacionada con la educación. Para ello introduciremos el hastag en la barra de búsqueda y luego obtenemos los datos o relevancia de dicho hashtag, para luego realizar el estudio. 
+## Descripción de cada Herramienta
 
-El funcionamiento de la herramientas consiste en nuestro caso en introducir el hastag que deseamos analizar para obtener la repercusión que tiene dicho hastag, las menciones que tiene, los usuarios que lo usan. 
+Tweet Reach:  es una herramienta de análisis de Twitter que nos permite averiguar información acerca de los Tweets publicados. Creada por Union Metrics en 
+San Francisco (Estados Unidos), mide principalmente, el alcance de los últimos 50 tweets publicados. Ésta herramienta permite realizar análisis e informes con los datos
+más relevantes, para poder mejorar el contenido en los futuros tweets que publiques, monitorizar tu cuenta en tiempo real para permitirte actuar en todo momento,
+visualizar todos los mensajes en tiempo real y realizar un seguimiento de los hashtags o palabras clave de Twitter, entre más opciones.
 
-El uso de la herramienta consiste en buscar en twitter el hastag que queremos ver la trascendencia que tiene y el uso que se le ha dado y ya con el hastag la herramienta nos muestra la información relevante.
 
-#### Captura de como se usaría la herramienta
+![Tweet Reach](./images/tweetreach_inicio.png "Tweet Reach")
 
-![Ejemplo de uso](./images/socialmention..JPG "Pantallazo de uso de la web")
+Tweet Archivist: esta herramienta analiza los últimos tuits de su cuenta para crear estadísticas y gráficos. Dentro de los datos que nos aporta ésta herramienta
+nos encontramos con el alcance estimado, impresiones de los tuits con los hashtags, los usuarios más influyentes que han utilizado el hashtag, los tuits más retuiteados, 
+participantes en el hashtag (usuarios que lo han utilizado, número de tuits de cada uno, RT’s conseguidos e impresiones) y timeline de los tuits.
+
+
+![Tweet Archivist](./images/tweetarchivist_inicio.png "Tweet Archivist")
+
+
+Mentionmapp: Se trata de una herramienta que viene fenomenal para ver las conexiones entre usuarios. Nos genera un mapa interactivo que nos viene perfecto para monitorizar 
+el seguimiento de los usuarios, temas, menciones, hashtags, etc., y generar un informe completo. Podemos ir modificando este mapa moviendo cada uno de los objetos y 
+dándoles la importancia que queremos en referencia al número de menciones, hashtags, etc. De un simple vistazo y de forma muy visual, podemos ver con qué usuarios interactuamos más, las menciones que nos hacen y ver los tuits más importantes y que más repercusión han tenido.
+
+
+![Mentionmapp](./images/mentionmapp_inicio.png "Mentionmapp")
+
 
 ### Propuesta tecnológica concreta a desarrollar.
 
