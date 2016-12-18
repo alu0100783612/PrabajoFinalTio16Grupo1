@@ -157,7 +157,7 @@ Por último, la herramienta que no muestra los datos gráficamente lo hace media
  - library("RODBC")
  - library("gdata")
  - library("tm")
--  library("wordcloud")
+ - library("wordcloud")
 
 + Importación de los datos 
 Para la importación de los datos, se ha realizado un merge con los ficheros obtenidos de las herramientas(Tweet Reach y Tweet Archivist), para ello hemos contado con la ayuda de Excel. Donde hemos podido tipificar  cada campo del fichero y con la  función para exportar documentos separados por tabuladores, se han obtenido los datos de tal forma que desde el lenguaje R, hemos podido crear un data.frame con los datos a trabajar.
