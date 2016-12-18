@@ -10,7 +10,7 @@
 
 ### Definir la problemática a desarrollar
 
-Disponemos de una o varias cuentas de twwiter relacionadas con educación las cuales debemos estudiar para
+Disponemos de una o varias cuentas de twitter relacionadas con educación las cuales debemos estudiar para
 saber que tráfico tienen, que usuarios interactúan o simplemente análisis la repercusión y la actividad que se
 desarrolla en dicha o dichas cuentas.
 
@@ -21,7 +21,7 @@ desarrolla en dicha o dichas cuentas.
 
 ## Cambio de Herramienta 
 
-Hemos pasado de utilizar una unica herramienta (SocialMention) a trabajar con otras tres, debido a que éstas nos permiten realizar un analisis más detallado,
+Hemos pasado de utilizar una unica herramienta (SocialMention) a trabajar con otras tres, debido a que éstas nos permiten realizar un análisis más detallado,
 otorgando de esta forma, un mayor volumen de datos.
 
 Las tres herramienta que mencionábamos anteriomente son las siguientes : TweetReach, TweetArchivist y Mentionmapp. Las dos primeras serán utilizadas para obtener
@@ -81,7 +81,7 @@ Una vez entramos en la plataforma, introducimos el hashtag que queremos analizar
 
 ![Tweet ReachPT](./images/tweetreach_1.png "Tweet ReachPT")
 
-Ahora que se nos muestran los datos obtenidos de la red social Twitter, podemos ver los tuits relacionados con el hashtag introducido, así como el alcance estimado, o el la exposición de dicho hashtag. Cabe destacar que, al ser la versión de prueba, solo se nos mostrarán los datos de unos pocos tuits:
+Ahora que se nos muestran los datos obtenidos de la red social Twitter, podemos ver los tuits relacionados con el hashtag introducido, así como el alcance estimado, o la exposición de dicho hashtag. Cabe destacar que, al ser la versión de prueba, solo se nos mostrarán los datos de unos pocos tuits:
 
 ![Tweet ReachPT](./images/tweetreach_2.png "Tweet ReachPT")
 
