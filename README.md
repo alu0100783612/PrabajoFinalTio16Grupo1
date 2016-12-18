@@ -153,10 +153,10 @@ Por último, la herramienta que no muestra los datos gráficamente lo hace media
 
 ### Programación en lenguaje R
 + Librerías utilizadas
- ++library("RODBC")
- ++library("gdata")
- ++library("tm")
- ++library("wordcloud")
+ ++ library("RODBC")
+ ++ library("gdata")
+ ++ library("tm")
+ ++ library("wordcloud")
 
 + Importación de los datos 
 Para la importación de los datos, se ha realizado un merge con los ficheros obtenidos de las herramientas(Tweet Reach y Tweet Archivist), para ello hemos contado con la ayuda de Excel. Donde hemos podido tipificar  cada campo del fichero y con la  función para exportar documentos separados por tabuladores, se han obtenido los datos de tal forma que desde el lenguaje R, hemos podido crear un data.frame con los datos a trabajar.
@@ -168,21 +168,25 @@ Para la importación de los datos, se ha realizado un merge con los ficheros obt
 + Extracción de la información
 Al cargar los datos los introducimos dentro de un “data.frame”, puesto que trabajamos con distintos tipos de datos, numéricos y strings, como definimos en el documento antes de la importación a nuestro entorno de programación. 
 Como trabajamos con data.frame podemos acceder a la información de dos formas:
- *datos$v1 hasta datos$v7, accedemos a los datos que forman cada columna del data frame* 
- *datos[,1] hasta datos[,7] como si se tratara de una matriz donde elegimos los vectores en columnas.*
+
+ - datos$v1 hasta datos$v7, accedemos a los datos que forman cada columna del data frame
+ - datos[,1] hasta datos[,7] como si se tratara de una matriz donde elegimos los vectores en columnas.
  
  + Representación de los datos
-	++ Histograma de menciones
-		Para medir las menciones que tienen los tweets analizados hemos considera que la mejor forma es la creación de un histograma de     frecuencias con el cual podemos ver a simple vista y de una forma intuitiva la frecuencia con la que se hacen las menciones de los tweets. 
+ + Histograma de menciones
+Para medir las menciones que tienen los tweets analizados hemos considera que la mejor forma es la creación de un histograma de     frecuencias con el cual podemos ver a simple vista y de una forma intuitiva la frecuencia con la que se hacen las menciones de los tweets. 
   
 ![Código del Histograma](images/images_R/hh.png "Código del Histograma")
 ![Histograma de menciones](images/images_R/3.png "Histograma de menciones")
 
-++ Media de retweets
-		Un buen indicador de la popularidad de la cuenta es el número de retweets, por lo que sí sabemos la media de los mismos podemos hacernos una idea aproximada de la influencia de la cuenta en la comunidad de Twitter
++ Media de retweets
+
+Un buen indicador de la popularidad de la cuenta es el número de retweets, por lo que sí sabemos la media de los mismos podemos hacernos una idea aproximada de la influencia de la cuenta en la comunidad de Twitter
 ![Media](images/images_R/media.png "Media")
-	++ Usuarios con más tweets
-		Para analizar qué usuarios tienen más tweets hemos creído oportuno realizar una nube de palabras con los usuarios que más se repiten, para tal fin hemos creado un corpus con los datos de los usuarios, con la librera “TM”  hemos analizado las concurrencias y con tal información hemos creado la siguiente nube de los usuarios que más se repite.
+
++ Usuarios con más tweets
+
+Para analizar qué usuarios tienen más tweets hemos creído oportuno realizar una nube de palabras con los usuarios que más se repiten, para tal fin hemos creado un corpus con los datos de los usuarios, con la librera “TM”  hemos analizado las concurrencias y con tal información hemos creado la siguiente nube de los usuarios que más se repite.
 
 ![Usuarios con más tweets](images/images_R/user+retweets.png "Usuarios con más tweets")
 
@@ -190,11 +194,11 @@ Como trabajamos con data.frame podemos acceder a la información de dos formas:
 Como podemos observar y debido al poco volumen de datos, sólo concurre un usuario cada vez si dispondremos de mayores valores la gráfica tendría más información o volumen de concurrencias. 	
 
 
-++ Nube de puntos tweets vs retweets
++ Nube de puntos tweets vs retweets
 
-	El último estudio que hemos realizado consta de enfrentar en una gráfica el número de tweets y el número de retweets con el fin de poder comprobar si un tweets es muchas veces retuiteado, con esta gráfica la idea es poder analizar que tiene más influencia si los tweets o los retuit, es decir, sabemos si en esta cuenta se aporta información o se comparte o retuitea más información 
+El último estudio que hemos realizado consta de enfrentar en una gráfica el número de tweets y el número de retweets con el fin de poder comprobar si un tweets es muchas veces retuiteado, con esta gráfica la idea es poder analizar que tiene más influencia si los tweets o los retuit, es decir, sabemos si en esta cuenta se aporta información o se comparte o retuitea más información 
 
-![Tweets vs retweets]](images/images_R/2.png "Tweets vs retweets")
+![Tweets vs retweets](images/images_R/2.png "Tweets vs retweets")
 
 
 ![Tweets vs retweets](images/images_R/frecuencia.png "Tweets vs retweets")
