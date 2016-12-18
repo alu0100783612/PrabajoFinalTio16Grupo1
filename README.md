@@ -61,17 +61,13 @@ dándoles la importancia que queremos en referencia al número de menciones, has
 
 ### Propuesta tecnológica concreta a desarrollar.
 
-Se desarrollará una aplicación en el lenguaje R que tendrá como objetivo obtener diversas estadísticas como el número de tweets, palabras claves, usuarios relacionados,etc, a través de hashtags y usuarios que tengan relación con el ámbito de la educación en la red social Twitter. 
+Aplicando los conocimientos aprendidos en las clases prácticas, desarrollamos un programa en el lenguajes R que tiene como objetivo obtener diversas estadísticas sobre la red social Twitter, como pueden ser el número de tweets realizados o usuarios que escriben más tweets, y luego representarlas en un gráfico.
 
-Para ello, se utilizarán herramientas de apoyo para analizar Twitter y obtener los  datos que necesitamos para su posterior análisis en R.
+Después de realizar una búsqueda en twitter sobre cuentas que tuvieran relación con la educación, que fuesen activas y tuvieran un número considerado de seguidores, decidimos utilizar como una de nuestras fuentes de datos principales la cuenta llamada “Edudemic”, que realiza tweets relacionados con la educación y tecnología.
 
-Las herramientas que utilizaremos son:
+También analizamos hashtags para ver la influencia que tienen en la red y usuarios que tengan relación con dicho hashtag.
 
--Tweet Reach permite obtener un análisis del alcance de los tweets.
-
--Mentionmapp es una web que nos permite obtener un grafo que refleja las relaciones principales de un usuario de Twitter con otros usuarios y hashtags más utilizados. Se usará para mostrar la información de manera más visual.
-
--Twitter Archivist se utilizará para analizar hashtags y así obtener los últimos tweets que usaron ese hashtag. Estos datos se exportarán a un archivo CSV para su análisis en R.
+Para ello, utilizamos herramientas de apoyo para poder obtener los datos que necesitamos para su posterior análisis en R.
 
 ### Fuentes de datos principales.
 
