@@ -153,10 +153,11 @@ Por último, la herramienta que no muestra los datos gráficamente lo hace media
 
 ### Programación en lenguaje R
 + Librerías utilizadas
- ++ library("RODBC")
- ++ library("gdata")
- ++ library("tm")
- ++ library("wordcloud")
+
+ - library("RODBC")
+ - library("gdata")
+ - library("tm")
+-  library("wordcloud")
 
 + Importación de los datos 
 Para la importación de los datos, se ha realizado un merge con los ficheros obtenidos de las herramientas(Tweet Reach y Tweet Archivist), para ello hemos contado con la ayuda de Excel. Donde hemos podido tipificar  cada campo del fichero y con la  función para exportar documentos separados por tabuladores, se han obtenido los datos de tal forma que desde el lenguaje R, hemos podido crear un data.frame con los datos a trabajar.
@@ -172,7 +173,10 @@ Como trabajamos con data.frame podemos acceder a la información de dos formas:
  - datos$v1 hasta datos$v7, accedemos a los datos que forman cada columna del data frame
  - datos[,1] hasta datos[,7] como si se tratara de una matriz donde elegimos los vectores en columnas.
  
+Así podemos acceder a los datos.
+ 
  + Representación de los datos
+ 
  + Histograma de menciones
 Para medir las menciones que tienen los tweets analizados hemos considera que la mejor forma es la creación de un histograma de     frecuencias con el cual podemos ver a simple vista y de una forma intuitiva la frecuencia con la que se hacen las menciones de los tweets. 
   
