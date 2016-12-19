@@ -188,6 +188,7 @@ Para analizar qué usuarios tienen más tweets hemos creído oportuno realizar u
 
 ![Usuarios con más tweets](images/images_R/user+retweets.png "Usuarios con más tweets")
 
+![Nube](./images/images_R/1.png "Nube") 
 
 Como podemos observar y debido al poco volumen de datos, sólo concurre un usuario cada vez si dispondremos de mayores valores la gráfica tendría más información o volumen de concurrencias. 	
 
