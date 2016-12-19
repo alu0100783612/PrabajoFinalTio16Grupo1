@@ -61,7 +61,7 @@ dándoles la importancia que queremos en referencia al número de menciones, has
 
 ### Propuesta tecnológica concreta a desarrollar.
 
-Aplicando los conocimientos aprendidos en las clases prácticas, desarrollamos un programa en el lenguajes R que tiene como objetivo obtener diversas estadísticas sobre la red social Twitter, como pueden ser el número de tweets realizados o usuarios que escriben más tweets, y luego representarlas en un gráfico.
+Aplicando los conocimientos adquiridos en las clases prácticas, desarrollamos un programa en el lenguajes R que tiene como objetivo obtener diversas estadísticas sobre la red social Twitter, como pueden ser el número de tweets realizados o usuarios que escriben más tweets, y luego representarlas en un gráfico.
 
 ### Fuentes de datos principales.
 
