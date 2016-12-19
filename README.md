@@ -63,15 +63,13 @@ dándoles la importancia que queremos en referencia al número de menciones, has
 
 Aplicando los conocimientos aprendidos en las clases prácticas, desarrollamos un programa en el lenguajes R que tiene como objetivo obtener diversas estadísticas sobre la red social Twitter, como pueden ser el número de tweets realizados o usuarios que escriben más tweets, y luego representarlas en un gráfico.
 
+### Fuentes de datos principales.
+
 Después de realizar una búsqueda en twitter sobre cuentas que tuvieran relación con la educación, que fuesen activas y tuvieran un número considerado de seguidores, decidimos utilizar como una de nuestras fuentes de datos principales la cuenta llamada “Edudemic”, que realiza tweets relacionados con la educación y tecnología.
 
 También analizamos hashtags para ver la influencia que tienen en la red y usuarios que tengan relación con dicho hashtag.
 
 Para ello, utilizamos herramientas de apoyo para poder obtener los datos que necesitamos para su posterior análisis en R.
-
-### Fuentes de datos principales.
-
-La fuente principal de nuestros datos va a ser Twitter, tras una reunión del grupo, hemos decidido  a priori usar la cuenta de Edudemic(@Edudemic), la cual tiene un gran volumen de datos relacionados con la educación y la tecnología
 
 ### Procesamiento de estos datos y transformaciones.
 
